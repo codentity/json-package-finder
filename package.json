@@ -1,0 +1,23 @@
+{
+  "name": "json-package-finder",
+  "version": "0.1.0",
+  "description": "Find packages in JSON config files.",
+  "main": "lib/JsonPackageFinder.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/*.spec.js"
+  },
+  "keywords": [],
+  "author": "Jack Stevens <jack@applyr.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "object-path": "^0.9.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
