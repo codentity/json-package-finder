@@ -1,7 +1,7 @@
 {
   "name": "json-package-finder",
   "version": "0.1.0",
-  "description": "Find packages in JSON config files.",
+  "description": "Find packages in JSON config files, like a boss.",
   "main": "lib/JsonPackageFinder.js",
   "directories": {
     "test": "test"
